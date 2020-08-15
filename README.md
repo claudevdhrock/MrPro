@@ -1,6 +1,6 @@
 # MrPro
-Pagina Web creada con CSS - HTML - JAVASCRIPT - BOOTSTRAP.
+Web page created with CSS - HTML - JAVASCRIPT - BOOTSTRAP.
 
-La pueden ver Online en: https://www.mrpro.com.ar
+You can see it Online at: https://www.mrpro.com.ar
 
 ![MrPro](./img/mrpro.png)
